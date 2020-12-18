@@ -1,5 +1,10 @@
 # Learning/Hobby materials
 
+# Programming
+
+- [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
+- [Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
+
 ## Cryptography
 
 - [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/draft_0_3.pdf)
