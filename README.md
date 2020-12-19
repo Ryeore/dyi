@@ -7,6 +7,7 @@
 - [Penetration Testing](https://github.com/SundownDEV/hacker-roadmap)
 - [Git Documentation](https://git-scm.com/book/en/v2)
 - [Job Interview Tips](https://github.com/jwasham/coding-interview-university)
+- [Google Cloud CMD](https://shell.cloud.google.com/)
 
 ## Cryptography
 
