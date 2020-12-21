@@ -22,3 +22,4 @@
 ## General
 
 - [Sci-Hub Access to Research Papers](https://sci-hub.se)
+- [Photo Metadata Viewer](http://exif.regex.info/exif.cgi)
