@@ -17,7 +17,7 @@
 
 ## Math stuff
 
-- [A Simple Proof of the Quadratic Formula](https://arxiv.org/pdf/1910.06709v1.pdf)
+- [A Simple Proof of the Quadratic Formula](https://arxiv.org/pdf/1910.06709v1.pdf) :heart:
 
 ## General
 
