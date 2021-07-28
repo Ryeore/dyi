@@ -26,3 +26,4 @@
 - [Sci-Hub Access to Research Papers](https://sci-hub.se)
 - [Photo Metadata Viewer](http://exif.regex.info/exif.cgi)
 - [Job Interview Tips](https://github.com/jwasham/coding-interview-university)
+- [CV stuff](https://github.com/lodthe/awesome-internships)
