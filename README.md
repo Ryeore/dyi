@@ -21,6 +21,21 @@
 
 - [A Simple Proof of the Quadratic Formula](https://arxiv.org/pdf/1910.06709v1.pdf) :heart:
 
+## Udemy Courses
+
+### ONGOING 🔜⚙️
+
+- [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
+
+### FINISHED 🎉
+  
+- [Automate the Boring Stuff with Python Programming](https://www.udemy.com/course/automate/) 🏆[CERTIFICATE](https://www.udemy.com/certificate/UC-8d7d5f7d-7120-40f9-932a-bea51792fb61/)🏆
+
+### TO DO 📝✅
+
+- [Java 17 Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/34997012?start=0)
+
+
 ## General
 
 - [Sci-Hub Access to Research Papers](https://sci-hub.se)
